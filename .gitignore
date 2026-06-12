@@ -1,0 +1,7 @@
+# Bolão Copa 2026
+
+node_modules
+dist
+.env
+.env.local
+.env.production
